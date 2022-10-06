@@ -2025,6 +2025,13 @@ pre code {
   color: rgb(111, 109, 109);
 }
 
+.row .col-sm-4 h2 {
+  font-size: 17px;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #000000;
+}
+
 .d-bloc .bloc-lg .row .mg-md {
   color: white;
 }
